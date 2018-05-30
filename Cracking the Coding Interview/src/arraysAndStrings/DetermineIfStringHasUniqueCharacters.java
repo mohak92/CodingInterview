@@ -19,7 +19,7 @@ public class DetermineIfStringHasUniqueCharacters {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		DetermineIfStringHasUniqueCharacters unique = new DetermineIfStringHasUniqueCharacters();
-		System.out.println(unique.isUniqueChars("Mohak"));
+		System.out.println(unique.isUniqueChars("Moha"));
 
 	}
 
