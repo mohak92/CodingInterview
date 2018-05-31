@@ -2,9 +2,8 @@ package arraysAndStrings;
 
 //characters of a given string can
 //be rearranged to form a palindrome
-import java.io.*;
+
 import java.util.*;
-import java.math.*;
 
 public class CanFormPalindrome {
 
